@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 79, 255, 0.44);">
+        <ui:VisualElement name="Logo" style="flex-grow: 1; background-image: url(&quot;project://database/Assets/StuddyBuddyClean.png?fileID=2800000&amp;guid=5cc60201ba215ff4d895177d942b7dd1&amp;type=3#StuddyBuddyClean&quot;); left: 25%; top: 20px; justify-content: flex-start; width: 50%; height: 50%; transition-property: opacity; transition-duration: 10s; transition-timing-function: ease-in; transition-delay: 0s;" />
+        <ui:VisualElement name="Container" style="flex-grow: 1; align-items: auto; justify-content: flex-end; flex-direction: row; top: auto; bottom: auto;">
+            <ui:Label tabindex="-1" text="LOGIN" parse-escape-sequences="true" display-tooltip-when-elided="true" name="Login" style="bottom: 50%; top: auto; justify-content: center; align-self: center; align-items: auto; left: auto; -unity-text-align: middle-center; visibility: visible; overflow: visible; display: flex; flex-direction: row; right: 118px; width: 109px; -unity-font: url(&quot;project://database/Assets/UI%20Toolkit/UnityThemes/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&amp;guid=8f00438bf67bbd44fbd3f07c97ef556e&amp;type=3#NotInter-Regular&quot;); -unity-font-style: bold; font-size: 20px; text-overflow: clip; color: rgb(27, 27, 27);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
